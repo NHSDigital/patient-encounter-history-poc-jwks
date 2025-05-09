@@ -1,2 +1,2 @@
-# patient-encounter-history-poc-jwks
+# repeat-encounter-service-poc-jwks
 Public hosting of jwks for poc
